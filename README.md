@@ -1,6 +1,6 @@
 # devops-lover
 
-:green\*book: **Just learning** :green_book:
+:green_book: **Just learning** :green_book:
 
 ## Content
 
